@@ -6,4 +6,4 @@
 
 .brand-logo{display:block;line-height:0}.brand-logo img{display:block;width:320px;max-width:100%;height:auto}header{gap:25px}header nav{gap:24px}@media(max-width:800px){.brand-logo img{width:240px}}
 
-.hero-art>img{object-position:center 15%}
+.hero-art>img{object-position:center top}
